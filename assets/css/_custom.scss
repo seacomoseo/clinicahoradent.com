@@ -1,0 +1,90 @@
+// Menu
+
+@media (min-width: $screen-menu-sticky) {
+  .body-top {
+    .menu--sticky .menu__items {
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+    }
+    &#body-inicio {
+      .menu {
+        background-color: rgba($white, .75);
+      }
+    }
+  }
+  .section--header + .divider {
+    display: none;
+  }
+}
+
+// Header
+#body-inicio #header {
+  overflow: visible;
+  position: relative;
+  padding: 0;
+  z-index: 55;
+  width: 100%;
+  background-color: $white;
+  .container--lg {
+    position: static;
+    width: 100%;
+    background-color: rgba($white, .75);
+    padding: 1em 5%;
+  }
+  .section__header {
+    margin-bottom: 0;
+  }
+  .section__title {
+    display: none;
+  }
+  .subtitle {
+    font-size: fluid-size(14.4px, 20px);;
+    text-align: center;
+  }
+  .description {
+    margin-top: -.25em;
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+  @media (min-width: $screen-menu-sticky) {
+    position: absolute;
+    padding: 0;
+    top: 18em;
+    background-color: transparent;
+    .container--lg {
+      position: absolute;
+      top: 6em - 17em;
+      left: 0;
+      border-radius: 0 $radius $radius 0;
+      width: auto;
+    }
+    .subtitle {
+      text-align: unset;
+    }
+    .description {
+      margin-top: 6em;
+      width: 100vw;
+    }
+  }
+}
+#body-inicio #header {
+  .subtitle {
+    animation: show-up .5s 2.25s both;
+  }
+  .description {
+    .buttons {
+      animation: show-up .5s 2.5s both;
+    }
+  }
+}
+
+
+// Sections
+
+// #equipo + .divider,
+// #fotos-mas + .divider,
+.section--header + .divider,
+.section--paddings-hide + .divider {
+  --divider-height: #{fluid-size(16px, 99px)};
+}

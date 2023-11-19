@@ -1,0 +1,37 @@
+id: tratamientos
+title: Tratamientos
+subtitle: A la vanguardia de la ciencia
+color: main-light
+icon: tooth
+description: |
+  <!-- En Clínica Dental Horadent ofrecemos tratamientos a la vanguardia de la ciencia -->
+  Nos preocupamos por tu salud dental, te asesoramos para que elijas el mejor tratamiento adaptado a tus necesidades. Nuestros pacientes son la mejor forma de ofrecer una calidad de servicio excelente, no dudes en contactar con nosotros si tienes cualquier duda.
+more:
+  align: center
+  icon_type: bottom
+  flip_x: false
+  flip_y: false
+  divider: curve-side
+rows:
+- type: columns
+  design:
+    color: white
+  items:
+  - title: Odontología General
+    link: '#odontologia-general'
+    icon: icono-odontologia-general
+  - title: Endodoncia
+    link: '#endodoncia'
+    icon: icono-endodoncia
+  - title: Estética Dental
+    link: '#estetica'
+    icon: icono-estetica
+  - title: Implantología
+    link: '#implantologia'
+    icon: icono-implantologia
+  - title: Ortodoncia
+    link: '#ortodoncia'
+    icon: icono-ortodoncia
+  - title: Odontopediatría
+    link: '#odontopediatria'
+    icon: icono-odontopediatria

@@ -1,0 +1,29 @@
+id: ventajas
+title: Ventajas
+subtitle: Lo que nos diferencia
+color: white
+icon: star
+more:
+  icon_type: bottom
+  flip_x: true
+  flip_y: false
+  divider: wavy-op
+rows:
+- type: columns
+  items:
+  - title: Transparencia
+    icon: comments
+    description: |
+      Ofrecemos asesoramiento cercano para que nuestros pacientes tengan toda la información disponible al alcance de la mano.
+  - title: Financiación
+    icon: money-check
+    description: |
+      Financiamos nuestros servicios para facilitar cualquier tratamiento necesario. ¡Porque todos tenemos derecho a tener una sonrisa sana y bonita!
+  - title: Asesoramiento
+    icon: people-arrows-left-right
+    description: |
+      Disponemos de asesoramiento gratuito ante cualquier necesidad. Realizamos un estudio previo para poder ofrecer una solución adaptada a tus necesidades.
+  - title: Vanguardia
+    icon: tooth
+    description: |
+      Ofrecemos tratamientos con tecnologías en salud bucodental a la vanguardia. Estamos en constante mejora para poder ofrecer una calidad de servicio excelente.

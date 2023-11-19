@@ -1,0 +1,71 @@
+icons:
+  type: solid
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: false
+  base:
+    family: Champagne&Limousines
+    weight: 300
+    strong: 0
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Champagne&Limousines
+    weight: 300
+    strong: 0
+    italic: true
+    line-height: 1.25
+    top: 0
+  title:
+    family: Myndraine
+    weight: 400
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: .125
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#1f9d9c'
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  alt:
+    color: '#fff'
+    light: '#fff'
+    dark: '#fff'
+    contrast: all
+  link:
+    color: '#fff'
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  base:
+    white: '#fff'
+    light: '#eee'
+    grey: '#767676'
+    dark: '#282525'
+    black: '#000'
+rounded:
+  radius: 1.33
+  chamfer: false
+buttons:
+  sides_round: false
+  icon_circle: false
+  deep: false
+  outline: false
+  font_base: false
+shadow:
+  left: 0.25
+  top: 0.25
+  blur: 0.25
+  color: black
+  opacity: 0.25
+lightbox_overlay:
+  opacity: 0.8
+  color: black
+performance:
+  showup: true
+  parallax: true
+  srcsetx2: true

@@ -1,0 +1,44 @@
+title: Clínica Horadent
+description: Clínica Dental especializada en gran variedad de tratamientos como endodoncias, estética dental e Invisalign. Situada en Pilar de la Horadada, Alicante.
+logo: logo.svg
+legal_name: Clínica Horadent
+legal_dni: 48693903M
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- MedicalBusiness
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: UA-197343172-1
+google_site_verification: Eg0es5V9zThNOdK_PW2deij_kojpbkb3BUoPxudS7L8
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://g.page/horadentclinicadental
+- link: https://www.facebook.com/horadent
+- link: https://www.instagram.com/horadentclinicadental/
+- link: https://twitter.com/HoradentD
+- link: https://www.youtube.com/channel/UCaFr2R-StnSmxaXQcoqZ_hA
+- link: https://www.linkedin.com/in/horadent-cl%C3%ADnica-dental-0b7075206
+- link: https://www.doctoralia.es/ruben-nicolas-alarcon/dentista-dentista-infantil/alicante
+

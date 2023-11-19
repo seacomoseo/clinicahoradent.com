@@ -1,0 +1,56 @@
+id: faq
+title: FAQ
+subtitle: Preguntas Frecuentes
+color: white
+size: md
+icon: circle-question
+description: |
+  ¿Tienes alguna cuestión que consultarnos con respecto a tratamientos dentales o algo relacionado con Clínica Dental Horadent? Aquí tienes algunas sugerencias. Si no encuentras la tuya... ¡[Contáctanos](#contacto)! La resolveremos lo más rápidamente posible y de la forma más precisa. ¿Qué necesito? Te hacemos un estudio gratuito.
+more:
+  icon_type: bottom
+  flip_x: true
+  flip_y: false
+  divider: curve-side
+rows:
+- type: collapsible
+  items:
+  - title: ¿Cada cuánto tiempo es recomendable visitar al dentista?
+    description: |
+      Como mínimo se recomienda una vez al año, durante la que se debe realizar una limpieza dental.
+
+      Sin embargo  si tienes alto riesgo de caries, problemas de periodontitis o llevas implantes dentales probablemente tu dentista acortará el periodo entre revisiones dependiendo de su criterio y el riesgo que detecte.
+  - title: ¿Cómo debo cuidar mi salud dental durante el embarazo?
+    description: |
+      Durante el embarazo es importante tener una buena higiene dental cepillando después de cada comida y utilizando seda dental siempre para evitar posibles problemas.
+
+      Llevar una dieta sana y equilibrada, así como la ingesta de mucha agua ayuda a reducir los problemas dentales derivados de los cambios hormonales durante el embarazo.
+
+      Estas variaciones hormonales pueden dar lugar a que la placa bacteriana actúe con mayor agresividad con lo que es recomendable visitar a tu dentista en caso de detectar cualquier alteración.
+  - title: ¿A qué edad es recomendable realizar la primera visita al dentista?
+    description: |
+      Generalmente, se recomienda que la primera visita se realice cuando el niño disponga de todos los dientes.
+
+      Hay casos más concretos en los que, ante la detección de cualquier anomalía en la salud dental del pequeño, se recomienda una revisión para poder diagnosticar lo antes posible el potencial problema a fin de dar una solución lo menos invasiva posible.
+  - title: ¿Duele ponerse un implante?
+    description: |
+      A la hora de colocar un implante el dolor variará dependiendo de cada uno de los pacientes. En cualquier caso, el odontólogo deberá pautar un tratamiento analgésico y antiinflamatorio para poder combatir cualquier tipo de dolor, por leve que sea, derivado de la realización de la cirugía. En este caso, se trata de una cirugía menor, con lo que el dolor suele ser llevadero y leve.
+  - title: La primera visita es gratuita, ¿La radiografía también?
+    description: |
+      Si, en Horadent tanto la primera visita con el doctor como la radiografía y el plan de tratamiento son servicios gratuitos y sin compromiso.
+  - title: ¿Qué es mejor, fundas o implantes?
+    description: |
+      El uso de implantes dentales permite no tener que tallar piezas sanas para reponer piezas ausentes. Sin embargo, en algunos casos, como ante un desgaste dental acentuado y problemas estéticos requieren la utilización de fundas, a veces combinadas con implantes. En Horadent utilizamos los materiales más novedosos como el zirconio y el disilicato de litio.
+  - title: ¿Cuánto tiempo tengo que esperar una vez que me he puesto los implantes?
+    description: |
+      Dependiendo del tipo de hueso y de las condiciones quirúrgicas, cada paciente requiere una espera específica. De media, en el maxilar superior con nuestros implantes de última generación, cuatro meses y en mandíbula tres meses. En muchos casos, se colocan dientes provisionales con los que podrás masticar con ciertas garantías y cumplen una perfecta función estética.
+  - title: ¿Cómo afecta el chupete al desarrollo dental?
+    description: |
+      En las primeras etapas de crecimiento, el chupete supone una forma de saciar el hambre mediante mecanismos de succión. Durante esta etapa, no suele tener impacto sobre el desarrollo dental siempre y cuando se escoja un chupete que cumpla con la ergonomía adecuada.
+
+      Es a partir de los tres años, donde se recomienda encarecidamente la retirada del dispositivo, pues el infante ha dejado de necesitar esa succión no nutritiva en su desarrollo y puede comenzar a tener un efecto negativo sobre el desarrollo dental del niño.
+  - title: ¿Puedo financiar mi tratamiento?
+    description: |
+      Si, disponemos de financiación adaptada a las necesidades de cada uno de los pacientes y basadas en el tipo de tratamiento y duración.
+  - title: ¿Qué necesito?
+    description: |
+      Te hacemos un estudio gratuito para valorar y ofrecer la mejor solución a tus problemas o necesidades.

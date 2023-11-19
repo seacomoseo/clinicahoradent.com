@@ -1,0 +1,14 @@
+id: header
+title: Horadent Clínica Dental
+subtitle: Dentista en Pilar de la Horadada
+color: white
+image: logo.svg
+description: |
+  [btn icon-youtube Vídeo](#video)
+more:
+  align: center
+  image_min: 18
+  image_max: 18
+  divider: wavy-fill
+  flip_x: true
+  flip_y: true

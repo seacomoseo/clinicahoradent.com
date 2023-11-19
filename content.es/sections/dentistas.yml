@@ -1,0 +1,23 @@
+id: dentistas
+title: Dentistas
+subtitle: Doctores Expertos
+color: main-light
+icon: user-doctor
+more:
+  icon_type: bottom
+  flip_x: true
+  flip_y: true
+  divider: wavy-alt
+rows:
+- type: columns
+  design:
+    num: 3
+    ratio: circle
+    border: main
+  items:
+  - title: Rubén Nicolás Alarcón
+    link: '#equipo-ruben-nicolas-alarcon'
+    image: equipo-ruben-nicolas-alarcon-sq.jpg
+  - title: Patricia Molina Prats
+    link: '#equipo-patricia-molina-prats'
+    image: equipo-patricia-molina-prats-sq.jpg
