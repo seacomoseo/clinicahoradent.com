@@ -9,6 +9,6 @@ more:
   align: center
   image_min: 18
   image_max: 18
-  divider: wavy-fill
+  divider: wavy
   flip_x: true
-  flip_y: true
+  flip_y: false

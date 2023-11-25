@@ -3,8 +3,8 @@ anchor: Fotos
 more:
   padding_hide: true
   flip_x: false
-  flip_y: false
-  divider: wavy-alt-fill
+  flip_y: true
+  divider: wavy-alt
 rows:
 - type: columns
   design:
