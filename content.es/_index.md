@@ -10,7 +10,6 @@ modals:
   size: xs
 sections:
 - file: header
-- file: slider
   modals:
   - video
 - file: nosotros
