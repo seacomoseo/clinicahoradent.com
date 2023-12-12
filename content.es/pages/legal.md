@@ -14,12 +14,12 @@ translationKey: legal
 
 En cumplimiento con el deber de información recogido en artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico (LSSICE), el PROPIETARIO DE LA WEB, le informa de lo siguiente:
 
-- Denominación social: **{{< legal name >}}**
-- CIF: **{{< legal dni >}}**
-- Domicilio social: **{{< legal location >}}**
+- Denominación social: **{{% legal name %}}**
+- CIF: **{{% legal dni %}}**
+- Domicilio social: **{{% legal location %}}**
 - Inscrita en el registro mercantil de: **Alicante**
 - Teléfono: **722 36 10 79**
-- Email: **{{< legal email >}}**
+- Email: **{{% legal email %}}**
 - Doctores colegiados:
   - **Rubén Nicolás Alarcón, nº de colegiado: 30001314**
   - **Patricia Molina Prats, nº de colegiado: 30001261**
