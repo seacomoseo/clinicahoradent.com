@@ -93,11 +93,11 @@
     z-index: 1;
     text-shadow: 1px 1px 3px $black;
     top: calc(50% - 4em);
-    animation: show-up .5s 2.25s both;
+    animation: show-from .5s 2.25s both;
   }
   .description {
     .buttons {
-      animation: show-up .5s 2.5s both;
+      animation: show-from .5s 2.5s both;
     }
   }
   .rows {
