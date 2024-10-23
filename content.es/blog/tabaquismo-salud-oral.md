@@ -11,7 +11,7 @@ toc: false
 draft: false
 noindex: false
 date: 2021-05-13
-lastmod: ''
+# lastmod: ''
 ---
 Todos sabemos de los perjuicios que tiene el tabaco sobre nuestra salud. No
 se quedan atrás los daños que ocasiona en nuestra salud oral, aunque quizá

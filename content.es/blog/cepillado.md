@@ -11,7 +11,7 @@ toc: false
 draft: false
 noindex: false
 date: 2021-04-16
-lastmod: ''
+# lastmod: ''
 ---
 Con el fin de mantener una óptima higiene oral, es muy importante el
 cepillado dental con una buena técnica después de cada comida.

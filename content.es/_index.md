@@ -19,11 +19,13 @@ sections:
   modals:
   - equipo-ruben-nicolas-alarcon
   - equipo-patricia-molina-prats
+  - equipo-ana-maria-cegarra
 - file: auxiliares
   modals:
   - equipo-cristina-moreno-lardin
-  - equipo-saray-garcia
+  # - equipo-saray-garcia
   - equipo-carmen-garrido
+  - equipo-angela-espin-perez
 - file: ventajas
 - file: tratamientos
   modals:

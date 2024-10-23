@@ -17,7 +17,10 @@ rows:
   items:
   - title: Rubén Nicolás Alarcón
     link: '#equipo-ruben-nicolas-alarcon'
-    image: equipo-ruben-nicolas-alarcon-sq.jpg
+    image: equipo-ruben-nicolas-alarcon.jpg
   - title: Patricia Molina Prats
     link: '#equipo-patricia-molina-prats'
-    image: equipo-patricia-molina-prats-sq.jpg
+    image: equipo-patricia-molina-prats.jpg
+  - title: Ana María Cegarra
+    link: '#equipo-ana-maria-cegarra'
+    image: equipo-ana-maria-cegarra.jpg

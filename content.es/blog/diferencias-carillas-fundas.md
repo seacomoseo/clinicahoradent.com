@@ -11,7 +11,7 @@ toc: false
 draft: false
 noindex: false
 date: 2021-05-06
-lastmod: ''
+# lastmod: ''
 ---
 La FUNDA, también llamada corona, cubre todo el diente, mientras que la
 CARILLA cubre solo la parte frontal.

@@ -18,9 +18,12 @@ rows:
   - title: Cristina Moreno Lardín
     link: '#equipo-cristina-moreno-lardin'
     image: equipo-cristina-moreno-lardin.jpg
-  - title: Saray García
-    link: '#equipo-saray-garcia'
-    image: equipo-saray-garcia.jpg
+  # - title: Saray García
+  #   link: '#equipo-saray-garcia'
+  #   image: equipo-saray-garcia.jpg
   - title: Carmen Garrido
     link: '#equipo-carmen-garrido'
     image: equipo-carmen-garrido.jpg
+  - title: Ángela Espín Pérez
+    link: '#equipo-angela-espin-perez'
+    image: equipo-angela-espin-perez.jpg

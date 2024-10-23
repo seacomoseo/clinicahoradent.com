@@ -11,7 +11,7 @@ toc: false
 draft: false
 noindex: false
 date: 2021-04-14
-lastmod: ''
+# lastmod: ''
 ---
 En un reciente estudio relaciona la presencia de enfermedad periodontal con 9 veces mayor letalidad por COVID. En otras palabras, si tienes esta enfermedad activa y te contagias del virus, tus probabilidades de morir o sufrir secuelas graves se multiplican por 9. Clica aquí para ver la noticia
 

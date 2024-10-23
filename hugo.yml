@@ -3,14 +3,14 @@ Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://gitlab.com/horadent/clinicahoradent.com
+  git_url: https://github.com/seacomoseo/clinicahoradent.com
   netlify_name: clinicahoradent
   netlify_id: 270d0bc3-b37e-461b-8807-f3d5cb5344b2
   hook: NjMwMzg1NzU1OGZiOGMwMDY5Mzg5ZTk0
   drive_link: https://drive.google.com/file/d/1GiXgqQSii114pQKAcabSAyvfCCHvZ3Qh
   drive_mails: clinicadentalhoradent@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: [en,fr]
 languages:
   es:
     paginatePath: pagina
