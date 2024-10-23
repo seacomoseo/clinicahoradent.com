@@ -1,0 +1,37 @@
+id: treatments
+title: Treatments
+subtitle: At the forefront of science
+color: main-light
+icon: tooth
+description: |
+  <!-- At Horadent Dental Clinic we offer treatments at the forefront of science -->
+  We care about your dental health, we advise you to choose the best treatment tailored to your needs. Our patients are the best way to offer an excellent quality of service, do not hesitate to contact us if you have any questions.
+more:
+  align: center
+  icon_type: bottom
+  flip_x: false
+  flip_y: false
+  divider: curve-side
+rows:
+- type: columns
+  design:
+    color: white
+  items:
+  - title: General Dentistry
+    link: '#general-dentistry'
+    icon: icono-odontologia-general
+  - title: Endodontics
+    link: '#endodontics'
+    icon: icono-endodoncia
+  - title: Dental Aesthetics
+    link: '#dental-aesthetics'
+    icon: icono-estetica
+  - title: Implantology
+    link: '#implantology'
+    icon: icono-implantologia
+  - title: Orthodontics
+    link: '#orthodontics'
+    icon: icono-ortodoncia
+  - title: Pediatric Dentistry
+    link: '#pediatric-dentistry'
+    icon: icono-odontopediatria

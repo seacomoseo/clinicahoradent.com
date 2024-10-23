@@ -2,6 +2,7 @@
 title: Tabaquismo y Salud Oral
 title_seo: ᐅ Tabaquismo y Salud Oral 【 Horadent Clínica Dental 】
 slug: tabaquismo-salud-oral
+translationKey: smoking-oral-health
 description: ''
 image: blog-tabaquismo.jpg
 categories: []

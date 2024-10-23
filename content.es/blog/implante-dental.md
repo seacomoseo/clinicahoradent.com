@@ -2,6 +2,7 @@
 title: Implante Dental
 title_seo: ᐅ Implante Dental 【 Horadent Clínica Dental 】
 slug: implante-dental
+translationKey: dental-implant
 description: ''
 image: blog-implante-dental.jpg
 categories: []

@@ -1,0 +1,43 @@
+title: Horadent Dental Clinic - Dentist in Pilar de la Horadada
+subtitle: Dentist in Pilar de la Horadada
+color: dark
+# image: logo.svg
+description: |
+  [btn icon-youtube Vídeo](#video)
+more:
+  align: center
+  image_min: 18
+  image_max: 18
+  # divider: wavy
+  # flip_x: true
+  # flip_y: false
+
+
+  padding_hide: true
+  flip_x: false
+  flip_y: true
+  divider: wavy-alt
+rows:
+- type: columns
+  design:
+    num: 1
+    gap: 0
+    hide_radius: true
+    ratio: 3x2
+    slider: true
+    hide_bullets: true
+    interval: 5
+  items:
+  - bg: clinica-entrada.jpg
+  - bg: clinica-sillon-odontologico.jpg
+  - bg: clinica-fachada.jpg
+  - bg: clinica-exterior.jpg
+  - bg: clinica-entrada-2.jpg
+  - bg: clinica-pasillo-2.jpg
+  - bg: equipo-ruben-nicolas-alarcon.jpg
+  - bg: equipo-patricia-molina-prats.jpg
+  - bg: clinica-pasillo.jpg
+  - bg: clinica-gabinete.jpg
+  - bg: clinica-sala-rayos.jpg
+  - bg: clinica-sala-espera.jpg
+  - bg: fondo.jpg

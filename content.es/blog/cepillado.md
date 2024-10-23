@@ -2,6 +2,7 @@
 title: Cepillado
 title_seo: ᐅ Cepillado 【 Horadent Clínica Dental 】
 slug: cepillado
+translationKey: brushing
 description: ''
 image: blog-cepillado.jpg
 categories: []

@@ -2,6 +2,7 @@
 title: Irrigador Bucal
 title_seo: ᐅ Irrigador Bucal 【 Horadent Clínica Dental 】
 slug: irrigador-bucal
+translationKey: irrigator-buccal
 description: ''
 image: blog-irrigador-bucal.jpg
 categories: []

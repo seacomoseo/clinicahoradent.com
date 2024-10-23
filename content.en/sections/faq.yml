@@ -1,0 +1,56 @@
+id: faq
+title: FAQ
+subtitle: Frequently Asked Questions
+color: white
+size: md
+icon: circle-question
+description: |
+  Do you have a question to ask us regarding dental treatments or something related to Horadent Dental Clinic? Here are some suggestions. If you don't find yours... Contact us](#contact us)! We will solve it as quickly as possible and in the most accurate way. What do I need? We do a free study for you.
+more:
+  icon_type: bottom
+  flip_x: true
+  flip_y: false
+  divider: curve-side
+rows:
+- type: collapsible
+  items:
+  - title: How often is it advisable to visit the dentist?
+    description: |
+      At least once a year is recommended, during which a dental cleaning should be performed.
+
+      However, if you have a high risk of caries, periodontitis problems or you have dental implants, your dentist will probably shorten the period between check-ups depending on his criteria and the risk he detects.
+  - title: How should I take care of my dental health during pregnancy?
+    description: |
+      During pregnancy it is important to have a good dental hygiene, brushing after every meal and always using dental floss to avoid possible problems.
+
+      Eating a healthy and balanced diet and drinking plenty of water helps to reduce dental problems due to hormonal changes during pregnancy.
+
+      These hormonal variations can cause plaque bacteria to act more aggressively, so it is advisable to visit your dentist if you detect any alteration.
+  - title: At what age is it advisable to visit the dentist for the first time?
+    description: |
+      Generally, it is recommended that the first visit is made when the child has all the teeth.
+
+      There are more specific cases in which, upon detection of any anomaly in the child's dental health, a check-up is recommended in order to diagnose the potential problem as soon as possible in order to provide the least invasive solution possible.
+  - title: Does it hurt to get an implant?
+    description: |
+      When placing an implant, pain will vary depending on each patient. In any case, the dentist should prescribe an analgesic and anti-inflammatory treatment to combat any type of pain, no matter how slight, derived from the surgery. In this case, it is a minor surgery, so the pain is usually bearable and mild.
+  - title: The first visit is free, is the X-ray also free?
+    description: |
+      Yes, at Horadent both the first visit with the doctor and the x-ray and treatment plan are free of charge and without obligation.
+  - title: Which is better, caps or implants?
+    description: |
+      The use of dental implants allows not having to carve healthy teeth to replace missing teeth. However, in some cases, such as in the case of accentuated dental wear and esthetic problems, the use of caps, sometimes combined with implants, is required. At Horadent we use the latest materials such as zirconium and lithium disilicate.
+  - title: How long do I have to wait once I have implants?
+    description: |
+      Depending on the type of bone and surgical conditions, each patient requires a specific waiting time. On average, in the upper jaw with our latest generation implants, four months and in the mandible three months. In many cases, provisional teeth are placed with which you will be able to chew with certain guarantees and fulfill a perfect esthetic function.
+  - title: How does the pacifier affect dental development?
+    description: |
+      In the early stages of growth, the pacifier is a way of satisfying hunger through sucking mechanisms. During this stage, it does not usually have an impact on dental development as long as a pacifier is chosen that complies with adequate ergonomics.
+
+      It is after the age of three that the removal of the device is strongly recommended, as the infant no longer needs this non-nutritive suction in its development and it can begin to have a negative effect on the child's dental development.
+  - title: Can I finance my treatment?
+    description: |
+      Yes, we have financing adapted to the needs of each patient and based on the type of treatment and duration.
+  - title: What do I need?
+    description: |
+      We do a free study to assess and offer the best solution to your problems or needs.

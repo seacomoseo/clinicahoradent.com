@@ -1,8 +1,9 @@
 ---
 title: Inicio
-title_seo: 'Horadent Clínica Dental: Dentista en Pilar de la Horadada'
+title_seo: 'Horadent Dental Clinic: Dentist in Pilar de la Horadada'
 slug: inicio
-description: llll➤ Clínica Dental ✅ especializada en gran variedad de tratamientos como endodoncias, estética dental e Invisalign. Situada en Pilar de la Horadada, Alicante.
+translationKey: home
+description: llll➤ Dental Clinic ✅ specializing in a variety of treatments such as endodontics, cosmetic dentistry and Invisalign. Located in Pilar de la Horadada, Alicante.
 image: clinica-entrada-2.jpg
 draft: false
 noindex: false

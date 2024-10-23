@@ -2,12 +2,12 @@
 title: Privacidad
 title_seo: ''
 slug: privacidad
+translationKey: privacy
 description: ''
 image: ''
 toc: true
 draft: false
 noindex: true
-translationKey: privacy
 ---
 
 Política de Privacidad

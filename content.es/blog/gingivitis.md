@@ -2,6 +2,7 @@
 title: Gingivitis
 title_seo: ᐅ Gingivitis 【 Horadent Clínica Dental 】
 slug: gingivitis
+translationKey: gingivitis
 description: ''
 image: blog-gingivitis.jpg
 categories: []

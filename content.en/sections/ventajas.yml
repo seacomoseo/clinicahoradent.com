@@ -1,0 +1,29 @@
+id: advantages
+title: Advantages
+subtitle: What sets us apart
+color: white
+icon: star
+more:
+  icon_type: bottom
+  flip_x: true
+  flip_y: false
+  divider: wavy-op
+rows:
+- type: columns
+  items:
+  - title: Transparency
+    icon: comments
+    description: |
+      We offer close counseling so that our patients have all the information available at their fingertips.
+  - title: Financing
+    icon: money-check
+    description: |
+      We finance our services to facilitate any necessary treatment, because everyone has the right to have a healthy and beautiful smile!
+  - title: Advice
+    icon: people-arrows-left-right
+    description: |
+      We offer free advice for any need. We carry out a preliminary study to be able to offer a solution adapted to your needs.
+  - title: Vanguard
+    icon: tooth
+    description: |
+      We offer treatments with cutting-edge oral health technologies. We are constantly improving in order to offer an excellent quality of service.

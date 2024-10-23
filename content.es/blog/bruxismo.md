@@ -2,6 +2,7 @@
 title: Bruxismo
 title_seo: ᐅ Bruxismo 【 Horadent Clínica Dental 】
 slug: bruxismo
+translationKey: bruxism
 description: ''
 image: blog-bruxismo.jpg
 categories: []

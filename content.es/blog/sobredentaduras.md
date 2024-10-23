@@ -2,6 +2,7 @@
 title: Sobredentaduras
 title_seo: ᐅ Sobredentaduras 【 Horadent Clínica Dental 】
 slug: sobredentaduras
+translationKey: overdentures
 description: ''
 image: blog-sobredentadura.jpg
 categories: []

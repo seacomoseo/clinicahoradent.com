@@ -2,6 +2,7 @@
 title: Diferencias entre Carillas y Fundas
 title_seo: ᐅ Diferencias entre Carillas y Fundas 【 Horadent 】
 slug: diferencias-carillas-fundas
+translationKey: differences-veneers-covers
 description: ''
 image: blog-carilla-funda.jpg
 categories: []

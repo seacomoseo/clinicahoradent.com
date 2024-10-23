@@ -1,0 +1,60 @@
+id: contact
+title: Contact
+subtitle: Ask a non-binding question
+color: white
+button: link
+size: sm
+icon: paper-plane
+more:
+  icon_type: bottom
+  flip_x: false
+  flip_y: false
+  divider: wavy
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Monday to Thursday
+    hours: 9:30 - 13:30 + 16:30 - 20:00
+  - type: schedule
+    days: Friday
+    hours: 9:30 - 18:00
+  - type: br
+  - type: phone
+    label: 966 84 63 52
+  - type: phone
+    label: 722 36 10 79
+  - type: whatsapp
+    button: link
+    label: 722 36 10 79
+  - type: mail
+    label: info@clinicahoradent.com
+  - type: address
+    active: true
+    name: Horadent Clínica Dental
+    streetAddress: Pl. Iglesia, 9, Bajo
+    postalCode: 03190
+    addressLocality: Pilar de la Horadada
+    addressRegion: Alicante
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-0.7927440,37.8650464]}'
+  form:
+    fill_inputs: true
+    items:
+    - type: text
+      name: Name
+      required: true
+    - type: tel
+      name: Phone
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Message
+      required: true
+  map:
+    active: true
+    link: https://g.page/horadentclinicadental
+    iframe: ''
+    flip_x: true
+    divider: wavy

@@ -1,0 +1,58 @@
+id: reviews
+title: Reviews
+subtitle: Testimonials from our customers
+color: light
+icon: comment
+more:
+  icon_type: bottom
+  flip_x: false
+  flip_y: false
+  divider: curve
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Carmen Ansorena
+    image: https://lh3.googleusercontent.com/a-/AOh14GiJsljPeyhQF_0zjzKKw6Vi_NBkmEu22B5Zadr-4A=w144
+    description: |
+      I came to this clinic by chance because the dentist recommended by my partner took 1 month to give me an appointment and here was to call and the next day and I was attended, super happy with the discovery, care, treatment and others .... No doubt I'm going to do the treatment here.
+
+      The experience with the care and the work they did was very professional and impeccable.
+
+      I recommend it 100%.
+  - title: Rubén González
+    image: https://lh3.googleusercontent.com/a-/AOh14Gg0KhTXB3pPiVC1CU2SJf_HfPoEMiUQB_6MrEm90Q=w144
+    description: |
+      A very familiar and cozy clinic.
+
+      The treatment to the patient is fantastic and the doctor is a great professional.
+
+      They adapt to your needs with very affordable prices.
+  - title: Jose Martinez
+    image: https://lh3.googleusercontent.com/a-/AOh14Gg4KSI9hAEO2Ypp4ITcpXP9g10Diy8hQz4yfseWWIM=w144
+    description: |
+      I had my wisdom teeth removed in this clinic and the attention and professionalism were very good.
+
+      The Doctor (Ruben) explained everything to me very attentively and fortunately everything went perfectly.
+
+      I didn't know the clinic but I will definitely come back and I recommend it.
+
+      Quality / Price is the best.
+  - title: VEGANico
+    image: https://lh3.googleusercontent.com/a-/AOh14GidbbRHavrFn8ZAruTr-jZyHtjfBDkfpBAvCwVXWDc=w144
+    description: |
+      I have tried many dentists and this is the best in the area without a doubt.
+
+      Recommended 100%, very good prices and offers.
+- type: columns
+  items:
+  - description: |
+      You can view and add more
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CQO0z-fbrStlEAg/review "noindex")
+      [btn icon-star Doctoralia](https://www.doctoralia.es/ruben-nicolas-alarcon/dentista-dentista-infantil/alicante#tab=profile-reviews "noindex")
+      [btn icon-star Facebook](https://www.facebook.com/horadent/reviews/ "noindex")

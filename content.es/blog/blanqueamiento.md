@@ -2,6 +2,7 @@
 title: Blanqueamiento
 title_seo: ᐅ Blanqueamiento 【 Horadent Clínica Dental 】
 slug: blanqueamiento
+translationKey: whitening
 description: ''
 image: blog-blanqueamiento.jpg
 categories: []

@@ -2,6 +2,7 @@
 title: Estética Dental
 title_seo: ᐅ Estética Dental 【 Horadent Clínica Dental 】
 slug: estetica-dental
+translationKey: dental-esthetics
 description: ''
 image: blog-estetica-dental.jpg
 categories: []

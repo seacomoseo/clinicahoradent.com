@@ -72,7 +72,8 @@
 //     }
 //   }
 // }
-#body-inicio #header {
+#body-inicio #header,
+#body-home #header {
   .section__header {
     z-index: 1;
   }
@@ -124,6 +125,7 @@
 // #fotos-mas + .divider,
 // #body-inicio #header,
 .section--paddings-hide.divider,
-#nosotros.divider {
+#nosotros.divider,
+#about-us.divider {
   --divider-height: #{fluid-size(16px, 99px)};
 }

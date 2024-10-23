@@ -1,0 +1,26 @@
+id: dentists
+title: Dentists
+subtitle: Expert Doctors
+color: main-light
+icon: user-doctor
+more:
+  icon_type: bottom
+  flip_x: true
+  flip_y: true
+  divider: wavy-alt
+rows:
+- type: columns
+  design:
+    num: 3
+    ratio: circle
+    border: main
+  items:
+  - title: Rubén Nicolás Alarcón
+    link: '#equipo-ruben-nicolas-alarcon'
+    image: equipo-ruben-nicolas-alarcon.jpg
+  - title: Patricia Molina Prats
+    link: '#equipo-patricia-molina-prats'
+    image: equipo-patricia-molina-prats.jpg
+  - title: Ana María Cegarra
+    link: '#equipo-ana-maria-cegarra'
+    image: equipo-ana-maria-cegarra.jpg

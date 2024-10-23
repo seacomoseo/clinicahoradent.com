@@ -2,12 +2,12 @@
 title: Aviso Legal
 title_seo: ''
 slug: legal
+translationKey: legal
 description: ''
 image: ''
 toc: true
 draft: false
 noindex: true
-translationKey: legal
 ---
 
 ## Datos identificativos

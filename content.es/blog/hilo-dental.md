@@ -2,6 +2,7 @@
 title: Hilo Dental
 title_seo: ᐅ Hilo Dental 【 Horadent Clínica Dental 】
 slug: hilo-dental
+translationKey: dental-floss
 description: ''
 image: blog-hilo-dental.jpg
 categories: []

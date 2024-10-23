@@ -1,0 +1,26 @@
+id: about us
+title: About us
+subtitle: Who we are
+color: white
+icon: circle-info
+more:
+  icon_type: bottom
+  flip_x: false
+  flip_y: false
+  divider: wavy
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - image: logo.svg#src
+  - link: '#about-us-more'
+    description: |
+      Horadent Dental Clinic is a small team of dentists in Pilar de la Horadada (Alicante) that was born with the aim of offering an excellent quality of service to our patients at the best possible price.
+
+      From Horadent we offer a large number of treatments adapted to each patient with an approach as conservative as possible and with the most advanced techniques in oral health.
+
+      Because getting a healthy and beautiful smile has never been so close to your reach!
+    more:
+      align: left

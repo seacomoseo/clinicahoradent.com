@@ -2,6 +2,7 @@
 title: Las muelas del Juicio
 title_seo: ᐅ Las muelas del Juicio 【 Horadent Clínica Dental 】
 slug: muelas-juicio
+translationKey: wisdom-teeth
 description: ''
 image: blog-muelas-juicio.jpg
 categories: []
